@@ -63,8 +63,6 @@ var D={
 "Clear, responsible recommendations, with no unnecessary repairs or pressure. We speak fluent Spanish and English! We'll assist you in the language you prefer.": "Recomendaciones claras y responsables, sin reparaciones innecesarias ni presiones. ¡Hablamos español e inglés! Te atendemos en el idioma que prefieras.",
 "📍 Serving New Port Richey and surrounding areas, within a 30-mile radius": "📍 Atendemos New Port Richey y sus alrededores, dentro de un radio de 30 millas",
 "Mobile Mechanic · Roadside Assistance · Towing": "Mecánica móvil · Asistencia en carretera · Grúas",
-"We'll Go Wherever You Are,": "¡Vamos hasta donde estés,",
-"Whenever You Need Us!": "cuando nos necesites!",
 "Mobile auto diagnostics, maintenance, and repairs at your location. Professional, reliable service, with no need to take your vehicle to a shop.": "Diagnóstico, mantenimiento y reparaciones automotrices a domicilio. Atención profesional y confiable, sin necesidad de llevar tu vehículo al taller.",
 "🔧 Request a Free Quote": "🔧 Solicita una cotización gratuita",
 "📞 Call Us Now: 727 277 6888": "📞 Llámanos ahora: 727 277 6888",
@@ -129,7 +127,9 @@ var D={
 "Thank you for contacting us! We've received your request and will get back to you as soon as possible.": "¡Gracias por contactarnos! Hemos recibido tu solicitud y nos comunicaremos contigo lo antes posible.",
 "Mobile mechanics, diagnostics, maintenance, and roadside assistance. Professional service right at your location.": "Mecánica móvil, diagnóstico, mantenimiento y asistencia en carretera. Atención profesional directamente en tu ubicación.",
 "© 2026 Allride Mobile Services. All rights reserved.": "© 2026 Allride Mobile Services. Todos los derechos reservados.",
-"Serving Pasco County and nearby areas.": "Atendemos el condado de Pasco y áreas cercanas."
+"Serving Pasco County and nearby areas.": "Atendemos el condado de Pasco y áreas cercanas.",
+"Professional Service,": "¡Vamos hasta donde estés,",
+"Delivered to Your Door.": "cuando nos necesites!"
 };
 function norm(s){return s.replace(/[‐-‑]/g,'-').replace(/[‘’]/g,"'").replace(/[“”]/g,'"').replace(/\s+/g,' ').trim();}
 var lang='en',btn=document.getElementById('lang'),hid=document.querySelector('input[name="language"]');
