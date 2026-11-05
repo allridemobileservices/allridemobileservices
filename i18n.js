@@ -49,7 +49,7 @@ var D={
 "30-MILE RADIUS":"RADIO DE 30 MILLAS",
 "Why Choose Us":"Por Qué Elegirnos","Why Drivers Trust Allride Mobile Services":"Por Qué los Conductores Confían en Allride Mobile Services",
 "Convenience First":"Comodidad Primero","We come to your home, office, or roadside. No shop appointments.":"Vamos a su casa, oficina o a la orilla del camino. Sin citas en el taller.",
-"Transparent Pricing":"Precios Transparentes","No hidden fees. Know the cost before work begins. We'll always explain the issue to you beforehand.":"Sin cargos ocultos. Conozca el costo antes de comenzar. Siempre le explicaremos el problema de antemano.",
+"Transparent Pricing":"Precios Transparentes","No hidden fees. Know the cost before work begins. We'll always explain the issue to you beforehand. We speak fluent Spanish and English.":"Sin cargos ocultos. Conozca el costo antes de comenzar. Siempre le explicaremos el problema de antemano. Hablamos español e inglés con fluidez.",
 "Experienced & Reliable":"Experiencia y Confianza","Mechanical engineering background with hands-on experience diagnosing and repairing cars.":"Formación en ingeniería mecánica y experiencia práctica en el diagnóstico y la reparación de autos.",
 "Fast Response":"Respuesta Rápida","Breakdowns don't wait, and neither do we.":"Las averías no esperan, y nosotros tampoco.",
 "Honest Service":"Servicio Honesto","No upselling, no pressure. Just honest work.":"Sin ventas forzadas ni presión. Solo trabajo honesto.",
