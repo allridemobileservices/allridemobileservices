@@ -50,7 +50,7 @@ var D={
 "Why Choose Us":"Por Qué Elegirnos","Why Drivers Trust Allride Mobile Services":"Por Qué los Conductores Confían en Allride Mobile Services",
 "Convenience First":"Comodidad Primero","We come to your home, office, or roadside. No shop appointments.":"Vamos a su casa, oficina o a la orilla del camino. Sin citas en el taller.",
 "Transparent Pricing":"Precios Transparentes","No hidden fees. Know the cost before work begins.":"Sin cargos ocultos. Conozca el costo antes de comenzar.",
-"Experienced & Reliable":"Experiencia y Confianza","Hands-on experience across cars, trucks, motorcycles, and golf carts.":"Experiencia práctica con autos, camionetas, motocicletas y carritos de golf.",
+"Experienced & Reliable":"Experiencia y Confianza","Hands-on experience across cars, motorcycles, and golf carts.":"Experiencia práctica con autos, motocicletas y carritos de golf.",
 "Fast Response":"Respuesta Rápida","Breakdowns don't wait, and neither do we.":"Las averías no esperan, y nosotros tampoco.",
 "Honest Service":"Servicio Honesto","No upselling, no pressure. Just honest work.":"Sin ventas forzadas ni presión. Solo trabajo honesto.",
 "How It Works":"Cómo Funciona","Getting Help Is Simple":"Recibir Ayuda Es Fácil",
