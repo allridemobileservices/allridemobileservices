@@ -71,17 +71,8 @@ var D={
 "30 mile service radius around New Port Richey": "Radio de servicio de 30 millas alrededor de New Port Richey",
 "30-MILE RADIUS": "RADIO DE 30 MILLAS",
 "Why Choose Us": "¿Por qué elegirnos?",
-"Why Drivers Trust Allride Mobile Services": "Tu auto en buenas manos",
-"Convenience First": "Comodidad",
-"We come to your home, office, or roadside. No shop appointments.": "Llevamos la atención automotriz directamente hasta ti, ahorrándote viajes y esperas innecesarias.",
 "Transparent Pricing": "Precios transparentes",
-"No hidden fees. Know the cost before work begins. We'll always explain the issue to you beforehand.": "Te explicamos el trabajo necesario y su costo antes de comenzar, sin sorpresas.",
-"Experienced & Reliable": "Experiencia",
-"Mechanical engineering background with hands-on experience diagnosing and repairing cars.": "Formación en ingeniería mecánica y experiencia práctica en diagnóstico y reparación automotriz.",
 "Fast Response": "Respuesta rápida",
-"Breakdowns don't wait, and neither do we.": "Entendemos lo importante que es tu vehículo. Por eso buscamos atenderte con rapidez y eficiencia.",
-"Honest Service": "Honestidad",
-"No upselling, no pressure. Just honest work. We speak fluent Spanish and English.": "Recomendaciones claras y responsables, sin reparaciones innecesarias ni presiones. ¡Hablamos español e inglés! Te atendemos en el idioma que prefieras.",
 "How It Works": "¿Cómo funciona?",
 "Getting Help Is Simple": "Así de fácil",
 "Contact Us": "Contáctanos",
@@ -132,7 +123,16 @@ var D={
 "📍 New Port Richey, FL": "📍 New Port Richey, Florida",
 "727 000 0000": "Tu número de contacto",
 "Google Business Profile": "Perfil de Empresa en Google",
-"© 2026 Allride Mobile Services · www.allridemobileservices.com": "© 2026 Allride Mobile Services. Todos los derechos reservados."
+"© 2026 Allride Mobile Services · www.allridemobileservices.com": "© 2026 Allride Mobile Services. Todos los derechos reservados.",
+"Convenience": "Comodidad",
+"Experience": "Experiencia",
+"Honesty": "Honestidad",
+"Your Car in Good Hands": "Tu auto en buenas manos",
+"We bring automotive care directly to you, saving you unnecessary trips and waiting.": "Llevamos la atención automotriz directamente hasta ti, ahorrándote viajes y esperas innecesarias.",
+"We explain the work needed and its cost before we begin, with no surprises.": "Te explicamos el trabajo necesario y su costo antes de comenzar, sin sorpresas.",
+"Mechanical engineering background and hands-on experience in automotive diagnostics and repair.": "Formación en ingeniería mecánica y experiencia práctica en diagnóstico y reparación automotriz.",
+"We understand how important your vehicle is. That's why we aim to serve you quickly and efficiently.": "Entendemos lo importante que es tu vehículo. Por eso buscamos atenderte con rapidez y eficiencia.",
+"Clear, responsible recommendations, with no unnecessary repairs or pressure. We speak fluent Spanish and English! We'll assist you in the language you prefer.": "Recomendaciones claras y responsables, sin reparaciones innecesarias ni presiones. ¡Hablamos español e inglés! Te atendemos en el idioma que prefieras."
 };
 function norm(s){return s.replace(/[‐-‑]/g,'-').replace(/[‘’]/g,"'").replace(/[“”]/g,'"').replace(/\s+/g,' ').trim();}
 var lang='en',btn=document.getElementById('lang'),hid=document.querySelector('input[name="language"]');
