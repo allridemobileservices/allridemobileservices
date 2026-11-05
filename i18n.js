@@ -128,8 +128,8 @@ var D={
 "Mobile mechanics, diagnostics, maintenance, and roadside assistance. Professional service right at your location.": "Mecánica móvil, diagnóstico, mantenimiento y asistencia en carretera. Atención profesional directamente en tu ubicación.",
 "© 2026 Allride Mobile Services. All rights reserved.": "© 2026 Allride Mobile Services. Todos los derechos reservados.",
 "Serving Pasco County and nearby areas.": "Atendemos el condado de Pasco y áreas cercanas.",
-"Professional Service,": "¡Vamos hasta donde estés,",
-"Delivered to Your Door.": "cuando nos necesites!"
+"Professional Service,": "Servicio profesional,",
+"Delivered to Your Door.": "directo a tu puerta."
 };
 function norm(s){return s.replace(/[‐-‑]/g,'-').replace(/[‘’]/g,"'").replace(/[“”]/g,'"').replace(/\s+/g,' ').trim();}
 var lang='en',btn=document.getElementById('lang'),hid=document.querySelector('input[name="language"]');
