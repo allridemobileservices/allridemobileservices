@@ -67,3 +67,5 @@ footer a{overflow-wrap:anywhere}header img{min-width:0;max-width:60vw;object-fit
 nav .btn{white-space:nowrap}
 @media (max-width:600px){nav{gap:8px}header img{max-width:38vw}.lang{padding:8px 10px}nav .btn{padding:9px 10px!important;font-size:12px}}
 input[name=vin]:not(:placeholder-shown){text-transform:uppercase}
+header img{width:auto;max-width:none}
+@media (max-width:600px){header img{max-width:42vw}}
