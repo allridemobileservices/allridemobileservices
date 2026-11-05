@@ -33,7 +33,7 @@ var D={
 "🛢️ Basic Maintenance":"🛢️ Mantenimiento Básico","Oil change, fluid check, filters.":"Cambio de aceite, revisión de fluidos, filtros.",
 "🛑 Brake Service":"🛑 Servicio de Frenos","per axle":"por eje","Rotors + pads. Brake fluid extra.":"Discos + pastillas. Líquido de frenos aparte.",
 "❄️ A/C Service":"❄️ Servicio de A/C","Recharge + leak check.":"Recarga + revisión de fugas.",
-"🚨 Roadside Call":"🚨 Asistencia en Carretera","Jump start, tire change, towing.":"Pasar corriente, cambio de llanta, grúa.",
+"🚨 Roadside Call":"🚨 Asistencia en Carretera","Jump start, tire change, towing.":"Pasar corriente, cambio de llanta, grúa.","Jump start, tire change, towing. Price depends on location.":"Pasar corriente, cambio de llanta, grúa. El precio depende de la ubicación.",
 "🔎 Pre-Purchase Inspection":"🔎 Inspección Antes de Comprar","& up":"y más",
 "Full multi-point inspection. Depends on location.":"Inspección completa de múltiples puntos. Depende de la ubicación.",
 "🏍️ Motorcycle Towing":"🏍️ Grúa para Motocicletas","Depends on location.":"Depende de la ubicación.",
