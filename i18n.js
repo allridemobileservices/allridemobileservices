@@ -68,7 +68,7 @@ var D={
 "Get a Free Quote":"Cotización Gratis","Name":"Nombre","Your name":"Su nombre","Phone":"Teléfono","Service":"Servicio",
 "A/C Repair":"Reparación de A/C","Breakdown / Roadside":"Avería / Carretera","Towing (car)":"Grúa (auto)","Pre-Purchase Inspection":"Inspección Antes de Comprar",
 "City":"Ciudad","e.g. Hudson":"p. ej. Hudson","Vehicle & what's going on":"Vehículo y qué le pasa",
-"VIN number (optional)":"Número VIN (opcional)","17-character VIN (dashboard or door jamb)":"VIN de 17 caracteres (tablero o marco de la puerta)","A VIN has 17 letters and numbers (no I, O or Q)":"Un VIN tiene 17 letras y números (sin I, O ni Q)","Year, make, model, and the issue":"Año, marca, modelo y el problema","Request My Quote":"Pedir Mi Cotización","Sending...":"Enviando...",
+"VIN number (optional)":"Número VIN (opcional)","17-character VIN":"VIN de 17 caracteres","A VIN has 17 letters and numbers (no I, O or Q)":"Un VIN tiene 17 letras y números (sin I, O ni Q)","Year, make, model, and the issue":"Año, marca, modelo y el problema","Request My Quote":"Pedir Mi Cotización","Sending...":"Enviando...",
 "Thanks! We'll reach out shortly.":"¡Gracias! Nos comunicaremos pronto.",
 "Thanks! Your request was sent. We'll reach out shortly.":"¡Gracias! Su solicitud fue enviada. Nos comunicaremos pronto.",
 "On-site automotive repair, maintenance, and roadside assistance across the New Port Richey area.":"Reparación automotriz, mantenimiento y asistencia en carretera en el lugar, en el área de New Port Richey.",

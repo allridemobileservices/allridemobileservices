@@ -66,3 +66,4 @@ footer a{overflow-wrap:anywhere}header img{min-width:0;max-width:60vw;object-fit
 .lang{background:transparent;border:2px solid #fff;color:#fff;border-radius:8px;padding:8px 12px;font:700 13px Montserrat,sans-serif;cursor:pointer}.lang:hover{background:#fff;color:#004aad}.lang:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 nav .btn{white-space:nowrap}
 @media (max-width:600px){nav{gap:8px}header img{max-width:38vw}.lang{padding:8px 10px}nav .btn{padding:9px 10px!important;font-size:12px}}
+input[name=vin]:not(:placeholder-shown){text-transform:uppercase}
