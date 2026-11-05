@@ -129,7 +129,8 @@ var D={
 "© 2026 Allride Mobile Services. All rights reserved.": "© 2026 Allride Mobile Services. Todos los derechos reservados.",
 "Serving Pasco County and nearby areas.": "Atendemos el condado de Pasco y áreas cercanas.",
 "Professional Service,": "Servicio profesional,",
-"Delivered to Your Door.": "directo a tu puerta."
+"Delivered to Your Door.": "directo a tu puerta.",
+"🕗 Open Monday to Saturday, 8:00 AM to 6:00 PM": "🕗 Abierto de lunes a sábado, de 8:00 AM a 6:00 PM"
 };
 function norm(s){return s.replace(/[‐-‑]/g,'-').replace(/[‘’]/g,"'").replace(/[“”]/g,'"').replace(/\s+/g,' ').trim();}
 var lang='en',btn=document.getElementById('lang'),hid=document.querySelector('input[name="language"]');

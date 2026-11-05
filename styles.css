@@ -74,3 +74,5 @@ header img{width:auto;max-width:none}
 .mh-b{display:flex;gap:10px;flex-wrap:wrap}.mh-b a{font:700 14px Montserrat,sans-serif;color:var(--brand);border:2px solid var(--brand);border-radius:8px;padding:8px 14px;background:var(--card)}
 .mh-b a:hover{background:var(--brand);color:#fff}
 html[lang=es] .amt-up{display:flex;align-items:baseline;gap:8px}html[lang=es] .amt-up small{order:-1}
+footer .fh{display:block;margin-bottom:8px}
+@media (min-width:1001px){footer .cols{grid-template-columns:1.2fr 1.6fr .8fr .9fr}}
