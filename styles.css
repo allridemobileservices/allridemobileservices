@@ -76,3 +76,7 @@ header img{width:auto;max-width:none}
 html[lang=es] .amt-up{display:flex;align-items:baseline;gap:8px}html[lang=es] .amt-up small{order:-1}
 footer .fh{display:block;margin-bottom:8px}
 @media (min-width:1001px){footer .cols{grid-template-columns:1.2fr 1.6fr .8fr .9fr}}
+.tl{display:inline-block;vertical-align:-7px;margin-right:4px;overflow:visible}
+.tl circle{fill:#3a4558}
+.tl[data-s=open] .g{fill:#22c55e;filter:drop-shadow(0 0 3px #22c55e)}
+.tl[data-s=closed] .r{fill:#ef4444;filter:drop-shadow(0 0 3px #ef4444)}
