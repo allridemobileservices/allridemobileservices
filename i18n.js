@@ -126,11 +126,11 @@ var D={
 "Request Quote": "Solicitar cotización",
 "Thank you for contacting us! We've received your request and will get back to you as soon as possible.": "¡Gracias por contactarnos! Hemos recibido tu solicitud y nos comunicaremos contigo lo antes posible.",
 "Mobile mechanics, diagnostics, maintenance, and roadside assistance. Professional service right at your location.": "Mecánica móvil, diagnóstico, mantenimiento y asistencia en carretera. Atención profesional directamente en tu ubicación.",
-"© 2026 Allride Mobile Services. All rights reserved.": "© 2026 Allride Mobile Services. Todos los derechos reservados.",
 "Serving Pasco County and nearby areas.": "Atendemos el condado de Pasco y áreas cercanas.",
 "Professional Service,": "Servicio profesional,",
 "Delivered to Your Door.": "directo a tu puerta.",
-"Open Monday to Saturday, 8:00 AM to 6:00 PM": "Abierto de lunes a sábado, de 8:00 AM a 6:00 PM"
+"Open Monday to Saturday, 8:00 AM to 6:00 PM": "Abierto de lunes a sábado, de 8:00 AM a 6:00 PM",
+"© 2026 All Ride Mobile Services LLC. All rights reserved.": "© 2026 All Ride Mobile Services LLC. Todos los derechos reservados."
 };
 function norm(s){return s.replace(/[‐-‑]/g,'-').replace(/[‘’]/g,"'").replace(/[“”]/g,'"').replace(/\s+/g,' ').trim();}
 var lang='en',btn=document.getElementById('lang'),hid=document.querySelector('input[name="language"]');
