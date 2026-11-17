@@ -80,3 +80,5 @@ footer .fh{display:block;margin-bottom:8px}
 .tl circle{fill:#3a4558}
 .tl[data-s=open] .g{fill:#22c55e;filter:drop-shadow(0 0 3px #22c55e)}
 .tl[data-s=closed] .r{fill:#ef4444;filter:drop-shadow(0 0 3px #ef4444)}
+
+.g2{grid-template-columns:repeat(2,1fr)}.rev.real{border-style:solid}@media (max-width:600px){.g2{grid-template-columns:1fr}}
